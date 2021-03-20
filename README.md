@@ -1,5 +1,7 @@
 <pre>
 # IP-Setting-Tool
+A tool used to set the IP Address of your PC's network adapter(s)
+
 Python Modules to install before using this tool:
 
 pip install pywin32   # This module allows you to have access to the Win 32 API and create/use COM objects
